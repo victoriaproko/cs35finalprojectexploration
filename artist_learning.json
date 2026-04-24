@@ -1,0 +1,248 @@
+{
+  "Bad Bunny": {
+    "acousticness_high": {
+      "count": 2,
+      "sum": 0.0
+    },
+    "acousticness_low": {
+      "count": 2,
+      "sum": 2.0
+    },
+    "danceability_high": {
+      "count": 2,
+      "sum": 2.0
+    },
+    "energy_high": {
+      "count": 1,
+      "sum": 1.0
+    },
+    "genre_latin_dominant": {
+      "count": 2,
+      "sum": 2.0
+    },
+    "genre_latin_share": {
+      "count": 2,
+      "sum": 2.0
+    },
+    "genre_pop_share": {
+      "count": 2,
+      "sum": 0.2
+    },
+    "instrumentalness_high": {
+      "count": 1,
+      "sum": 0.0
+    },
+    "instrumentalness_low": {
+      "count": 1,
+      "sum": 1.0
+    },
+    "liveness_high": {
+      "count": 2,
+      "sum": 0.2
+    },
+    "liveness_low": {
+      "count": 2,
+      "sum": 2.0
+    },
+    "loudness_high": {
+      "count": 1,
+      "sum": 0.8
+    },
+    "subgenre_global": {
+      "count": 2,
+      "sum": 2.0
+    },
+    "subgenre_modern": {
+      "count": 2,
+      "sum": 1.0
+    },
+    "subgenre_modern_dominant": {
+      "count": 2,
+      "sum": 0.0
+    },
+    "subgenre_reggaeton": {
+      "count": 2,
+      "sum": 2.0
+    },
+    "subgenre_reggaeton_dominant": {
+      "count": 2,
+      "sum": 2.0
+    },
+    "tempo_high": {
+      "count": 2,
+      "sum": 1.6
+    },
+    "tempo_low": {
+      "count": 2,
+      "sum": 0.0
+    },
+    "valence_high": {
+      "count": 2,
+      "sum": 2.0
+    },
+    "valence_low": {
+      "count": 2,
+      "sum": 0.4
+    }
+  },
+  "Bruno Mars": {
+    "acousticness_high": {
+      "count": 1,
+      "sum": 0.0
+    },
+    "energy_high": {
+      "count": 1,
+      "sum": 1.0
+    },
+    "energy_low": {
+      "count": 1,
+      "sum": 0.0
+    },
+    "genre_arabic_dominant": {
+      "count": 1,
+      "sum": 0.0
+    },
+    "genre_electronic_dominant": {
+      "count": 1,
+      "sum": 0.0
+    },
+    "genre_electronic_share": {
+      "count": 1,
+      "sum": 0.0
+    },
+    "genre_hip-hop_dominant": {
+      "count": 1,
+      "sum": 0.0
+    },
+    "genre_latin_dominant": {
+      "count": 1,
+      "sum": 0.0
+    },
+    "genre_pop_dominant": {
+      "count": 1,
+      "sum": 0.8
+    },
+    "genre_r&b_dominant": {
+      "count": 1,
+      "sum": 0.8
+    },
+    "genre_r&b_share": {
+      "count": 1,
+      "sum": 0.8
+    },
+    "genre_rock_dominant": {
+      "count": 1,
+      "sum": 0.0
+    },
+    "instrumentalness_high": {
+      "count": 1,
+      "sum": 0.0
+    },
+    "liveness_high": {
+      "count": 1,
+      "sum": 0.8
+    },
+    "liveness_low": {
+      "count": 1,
+      "sum": 0.2
+    },
+    "loudness_high": {
+      "count": 1,
+      "sum": 0.8
+    },
+    "subgenre_global_dominant": {
+      "count": 1,
+      "sum": 0.0
+    },
+    "subgenre_modern_dominant": {
+      "count": 1,
+      "sum": 1.0
+    },
+    "subgenre_throwback_dominant": {
+      "count": 1,
+      "sum": 0.0
+    },
+    "tempo_mid": {
+      "count": 1,
+      "sum": 1.0
+    }
+  },
+  "Lil Baby": {
+    "acousticness_high": {
+      "count": 1,
+      "sum": 0.0
+    },
+    "acousticness_low": {
+      "count": 1,
+      "sum": 1.0
+    },
+    "danceability_high": {
+      "count": 1,
+      "sum": 0.2
+    },
+    "genre_arabic_dominant": {
+      "count": 1,
+      "sum": 0.0
+    },
+    "genre_hip-hop_dominant": {
+      "count": 1,
+      "sum": 1.0
+    },
+    "genre_latin_dominant": {
+      "count": 1,
+      "sum": 0.0
+    },
+    "genre_pop_dominant": {
+      "count": 1,
+      "sum": 0.0
+    },
+    "genre_rock_dominant": {
+      "count": 1,
+      "sum": 0.0
+    },
+    "liveness_high": {
+      "count": 1,
+      "sum": 0.0
+    },
+    "loudness_low": {
+      "count": 1,
+      "sum": 0.0
+    },
+    "speechiness_high": {
+      "count": 1,
+      "sum": 1.0
+    },
+    "speechiness_low": {
+      "count": 1,
+      "sum": 0.0
+    },
+    "subgenre_academic_dominant": {
+      "count": 1,
+      "sum": 0.0
+    },
+    "subgenre_melodic": {
+      "count": 1,
+      "sum": 0.0
+    },
+    "subgenre_melodic_dominant": {
+      "count": 1,
+      "sum": 0.2
+    },
+    "subgenre_modern_dominant": {
+      "count": 1,
+      "sum": 0.0
+    },
+    "tempo_high": {
+      "count": 1,
+      "sum": 1.0
+    },
+    "tempo_low": {
+      "count": 1,
+      "sum": 0.0
+    },
+    "valence_high": {
+      "count": 1,
+      "sum": 1.0
+    }
+  }
+}
